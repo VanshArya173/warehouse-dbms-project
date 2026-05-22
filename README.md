@@ -97,7 +97,4 @@ Then open `http://localhost:5000` in your browser.
 
 ---
 
-## 👨‍💻 Authors
 
-**Vansh Arya Verma** & **Ashmit Verma** — B.Tech CSSS @ IIITD  
-[GitHub (Vansh)](https://github.com/VanshArya173) · [LinkedIn](https://linkedin.com/in/vansh-arya-975448366)
